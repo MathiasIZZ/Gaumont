@@ -1,0 +1,10 @@
+server:
+  port: 80
+
+spring:
+  data:
+    mongodb:
+      database: cinema
+      uri: mongodb://localhost/cinema
+
+
